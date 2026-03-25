@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Leo;I'm+20+Years+Old" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Leo;I'm+21+Years+Old" alt="Typing SVG" />
 </p>
 
 <hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
