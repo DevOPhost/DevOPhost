@@ -28,8 +28,8 @@ Focado em automação de processos, desenvolvimento web e criação de soluçõe
  <hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevOPhost&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOPhost&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="170"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevOPhost&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevOPhost&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
