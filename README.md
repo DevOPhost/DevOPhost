@@ -8,7 +8,10 @@
 
 <hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
 
- **Olá, sou o Leonardo Farias!!!**
+### Olá, sou o Leonardo Farias
+
+Analista de Processos de TI.
+Focado em automação de processos, desenvolvimento web e criação de soluções tecnológicas que otimizam fluxos operacionais.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,10 +27,10 @@
   
  <hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevOPhost&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOPhost&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevOPhost&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOPhost&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="170"/>
+</p>
 
 <hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
  
