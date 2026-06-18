@@ -10,7 +10,7 @@
 
 ### Olá, sou o Leonardo Farias
 
-Analista de Sistemas.
+Analista de Sistemas formado em Ciência da Computação.
 Focado em automação de processos, desenvolvimento web e criação de soluções tecnológicas que otimizam fluxos operacionais.
 
 <div style="display: inline_block"><br>
