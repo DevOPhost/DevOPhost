@@ -1,18 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:00BFFF,100:0F172A&height=170&section=header&text=Leonardo%20Farias&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Systems%20Analyst%20%7C%20Web%20Developer%20%7C%20Automation%20Builder&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0EA5E9,100:0F172A&height=180&section=header&text=Leonardo%20Farias&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Systems%20Analyst%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Automation%20Builder&descAlignY=58&descSize=17"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Transformando+processos+manuais+em+sistemas+inteligentes;Desenvolvimento+Web+%2B+Automa%C3%A7%C3%B5es+%2B+An%C3%A1lise+de+Sistemas;Projetos+com+foco+em+organiza%C3%A7%C3%A3o%2C+performance+e+experi%C3%AAncia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Construindo+sistemas+para+processos+reais;Interfaces+limpas%2C+dados+organizados+e+automa%C3%A7%C3%B5es+%C3%BAteis;Tecnologia+aplicada+%C3%A0+rotina+operacional+e+administrativa" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leonardo-farias-martins-160340215/">
-    <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/leonardo-farias-martins-160340215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hosttm123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/leonardommbr/">
-    <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://github.com/DevOPhost?tab=repositories">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
   </a>
 </p>
 
@@ -20,39 +20,36 @@
 
 <table>
   <tr>
-    <td width="55%">
+    <td width="58%" valign="top">
 
-## `> whoami`
+## Sobre
 
-Sou **Leonardo Farias**, formado em **Ciência da Computação** e focado em criar soluções que unem **tecnologia, processos administrativos e experiência de uso**.
+Sou formado em **Ciência da Computação** e construo soluções voltadas para **processos, sistemas internos, automações e aplicações web**.
 
-Meu foco não é apenas escrever código.
-É entender o problema, organizar o fluxo, automatizar o que é repetitivo e transformar uma rotina confusa em uma solução simples, visual e funcional.
+Venho de um contexto onde tecnologia precisa resolver problemas concretos: planilhas que precisam fechar corretamente, dados que precisam ser confiáveis, tarefas repetitivas que consomem tempo, relatórios que precisam sair com clareza e sistemas que devem facilitar a rotina de quem usa.
 
-Trabalho principalmente com:
+Por isso, meus projetos costumam unir três pontos:
 
-* sistemas web;
-* automação de processos;
-* dashboards e gestão de dados;
-* banco de dados;
-* interfaces modernas;
-* ferramentas para rotinas administrativas e operacionais.
+**interface bem apresentada**, **estrutura lógica organizada** e **utilidade prática**.
 
 </td>
-<td width="45%">
+    <td width="42%" valign="top">
 
-## `status.dev`
+## Perfil técnico
 
 ```txt
-name        Leonardo Farias
-role        Systems Analyst
-focus       Web • Automation • Data
-stack       JS • TS • Node • Python
-database    MySQL • Supabase
-mission     build useful systems
+name       Leonardo Farias
+area       Systems Analysis
+focus      Web Systems & Automation
+base       Administrative Operations
+code       JavaScript • TypeScript • Python
+backend    Node.js • Express
+database   MySQL • Supabase
 ```
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=DevOPhost&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=E5E7EB"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevOPhost&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS"/>
+</p>
 
 </td>
   </tr>
@@ -60,175 +57,156 @@ mission     build useful systems
 
 ---
 
-## `> stack`
+## Núcleo de atuação
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Web%20Systems-020617?style=for-the-badge&logo=windowsterminal&logoColor=38BDF8"/>
+      <br><br>
+      <sub>Sistemas com telas claras, navegação objetiva e estrutura pronta para evoluir.</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Automation-020617?style=for-the-badge&logo=python&logoColor=38BDF8"/>
+      <br><br>
+      <sub>Rotinas repetitivas convertidas em fluxos mais rápidos e consistentes.</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Data-020617?style=for-the-badge&logo=mysql&logoColor=38BDF8"/>
+      <br><br>
+      <sub>Modelagem, organização e leitura de dados para apoiar decisões.</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Operations-020617?style=for-the-badge&logo=files&logoColor=38BDF8"/>
+      <br><br>
+      <sub>Experiência com processos administrativos, documentos, relatórios e controles.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Stack principal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,mysql,supabase,git,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-0F172A?style=for-the-badge&logo=react&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Backend-0F172A?style=for-the-badge&logo=node.js&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Automações-0F172A?style=for-the-badge&logo=python&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Banco%20de%20Dados-0F172A?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Análise%20de%20Sistemas-0F172A?style=for-the-badge&logo=diagramdotnet&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript-0F172A?style=flat-square&labelColor=020617&color=0EA5E9"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20APIs-0F172A?style=flat-square&labelColor=020617&color=0EA5E9"/>
+  <img src="https://img.shields.io/badge/Data-MySQL%20%7C%20Supabase%20%7C%20Dashboards-0F172A?style=flat-square&labelColor=020617&color=0EA5E9"/>
 </p>
 
 ---
 
-## `> área de atuação`
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/source-code.png" width="55"/>
-      <br/>
-      <b>Desenvolvimento Web</b>
-      <br/>
-      <sub>interfaces, sistemas e experiências digitais</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/process.png" width="55"/>
-      <br/>
-      <b>Automação</b>
-      <br/>
-      <sub>menos tarefas repetitivas, mais produtividade</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/database.png" width="55"/>
-      <br/>
-      <b>Dados</b>
-      <br/>
-      <sub>organização, análise e estruturação</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="55"/>
-      <br/>
-      <b>Gestão</b>
-      <br/>
-      <sub>processos administrativos com tecnologia</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## `> como penso um projeto`
+## Como eu estruturo uma solução
 
 ```mermaid
 flowchart LR
-    A[Entender o problema] --> B[Mapear o processo]
-    B --> C[Modelar dados e regras]
-    C --> D[Criar interface funcional]
-    D --> E[Automatizar etapas repetitivas]
-    E --> F[Testar, documentar e evoluir]
+    A["Problema real"] --> B["Mapeamento do processo"]
+    B --> C["Regras e dados"]
+    C --> D["Interface"]
+    D --> E["Automação"]
+    E --> F["Testes e documentação"]
+    F --> G["Evolução"]
 ```
 
 ---
 
-## `> projetos em destaque`
+## Projeto em destaque
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>Estágio System</h3>
-      <p>
-        Sistema web desenvolvido para gestão de atividades de estágio, chamados, relatórios e acompanhamento de horas.
-      </p>
-      <p>
-        <b>Stack:</b> HTML, CSS, JavaScript, Node.js, Express e MySQL.
-      </p>
-      <a href="https://github.com/DevOPhost/estagio-system">
-        <img src="https://img.shields.io/badge/Ver%20projeto-00BFFF?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+    <td width="50%" valign="top">
+
+### Estágio System
+
+Sistema web desenvolvido para centralizar atividades de estágio, chamados de suporte, relatórios e acompanhamento de horas.
+
+O projeto foi pensado como uma solução administrativa: simples de operar, organizada por módulos e com base preparada para evoluir.
+
+**Principais pontos:**
+
+* dashboard com indicadores;
+* registro de atividades;
+* controle de chamados;
+* relatórios gerenciais;
+* autenticação por perfil;
+* estrutura backend/frontend/documentação.
+
+<p>
+  <a href="https://github.com/DevOPhost/estagio-system">
+    <img src="https://img.shields.io/badge/Acessar%20reposit%C3%B3rio-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+    <td width="50%" valign="top">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevOPhost&repo=estagio-system&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8"/>
+
+</td>
+  </tr>
+</table>
+
+---
+
+## O que busco construir
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Produtos úteis</h3>
+      <p>Sistemas que não existem apenas para demonstrar tecnologia, mas para organizar uma rotina, reduzir retrabalho ou melhorar uma operação.</p>
     </td>
-    <td width="50%">
-      <h3>Projetos Web e Automações</h3>
-      <p>
-        Repositórios voltados para sistemas administrativos, interfaces modernas, dashboards, automações e soluções digitais.
-      </p>
-      <p>
-        <b>Foco:</b> utilidade real, organização, documentação e evolução constante.
-      </p>
-      <a href="https://github.com/DevOPhost?tab=repositories">
-        <img src="https://img.shields.io/badge/Explorar%20repositórios-0F172A?style=for-the-badge&logo=github&logoColor=00BFFF"/>
-      </a>
+    <td width="33%" valign="top">
+      <h3>Interfaces melhores</h3>
+      <p>Telas com hierarquia visual, navegação objetiva, responsividade e atenção à experiência de quem realmente vai usar.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Base escalável</h3>
+      <p>Projetos com estrutura clara, documentação, separação de responsabilidades e espaço para novas funcionalidades.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## `> github analytics`
+## GitHub em números
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevOPhost&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=E5E7EB"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOPhost&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=E5E7EB"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevOPhost&show_icons=true&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOPhost&layout=compact&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1"/>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevOPhost&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF"/>
-</p>
-
----
-
-## `> trophies`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevOPhost&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6"/>
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevOPhost&theme=github-dark&hide_border=true&bg_color=020617&color=38BDF8&line=0EA5E9&point=F8FAFC"/>
 </p>
 
 ---
 
-## `> além do código`
-
-<table>
-  <tr>
-    <td width="33%">
-      <b>Visão administrativa</b>
-      <br/>
-      <sub>experiência com notas fiscais, boletos, remessas, planilhas e rotinas internas.</sub>
-    </td>
-    <td width="33%">
-      <b>Visão técnica</b>
-      <br/>
-      <sub>desenvolvimento, banco de dados, automações, APIs e estruturação de sistemas.</sub>
-    </td>
-    <td width="33%">
-      <b>Visão de produto</b>
-      <br/>
-      <sub>interfaces mais claras, fluxos mais simples e soluções pensadas para uso real.</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## `> atualmente estudando e construindo`
+## Contato
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=00BFFF"/>
-</p>
-
-```txt
-O objetivo é simples:
-criar projetos cada vez mais completos, úteis e bem apresentados.
-```
-
----
-
-<p align="center">
-  ![Snake animation](https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg)
+  <a href="https://www.linkedin.com/in/leonardo-farias-martins-160340215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hosttm123@gmail.com">
+    <img src="https://img.shields.io/badge/hosttm123%40gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Código bom não é só o que funciona. É o que resolve, organiza e deixa o caminho mais simples para quem usa."</i>
+  <img src="https://raw.githubusercontent.com/DevOPhost/DevOPhost/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:00BFFF,100:020617&height=130&section=footer"/>
+<p align="center">
+  <sub>
+    Sistemas bem construídos não apenas funcionam. Eles reduzem ruído, organizam processos e tornam decisões mais simples.
+  </sub>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:0EA5E9,100:020617&height=130&section=footer"/>
