@@ -222,7 +222,7 @@ criar projetos cada vez mais completos, úteis e bem apresentados.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevOPhost/DevOPhost/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  ![Snake animation](https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
