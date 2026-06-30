@@ -10,8 +10,49 @@
 
 <p align="center">
   Analista de Sistemas formado em Ciência da Computação.<br>
-  Focado em desenvolvimento web, automação de processos e soluções tecnológicas que tornam rotinas operacionais mais simples, organizadas e eficientes.
+  Gosto de desenvolver soluções web, automatizar processos e transformar rotinas operacionais em sistemas mais simples, organizados e eficientes.
 </p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-farias-martins-160340215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00bfff?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:hosttm123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/leonardommbr/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+<hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
+
+<h3 align="center">Sobre mim</h3>
+
+<p align="center">
+  Tenho interesse por desenvolvimento web, automação, banco de dados, integração de sistemas e criação de projetos que resolvem problemas reais.
+  Busco construir aplicações com boa estrutura, visual agradável e código organizado, sempre pensando em evolução, manutenção e experiência do usuário.
+</p>
+
+<br>
+
+<div align="center">
+
+| Área | O que eu costumo trabalhar |
+| --- | --- |
+| Desenvolvimento Web | Interfaces, dashboards, sistemas administrativos e páginas responsivas |
+| Backend | APIs, autenticação, regras de negócio e integração com banco de dados |
+| Banco de Dados | Modelagem, consultas, organização de dados e estruturação de sistemas |
+| Automação | Scripts e soluções para reduzir tarefas manuais e melhorar processos |
+| Portfólio | Projetos próprios com foco em prática, evolução técnica e apresentação profissional |
+
+</div>
+
+<hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
+
+<h3 align="center">Tecnologias e ferramentas</h3>
 
 <br>
 
@@ -30,7 +71,38 @@
 
 <br>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20React-00bfff?style=flat-square">
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20APIs%20%7C%20MySQL-00bfff?style=flat-square">
+  <img src="https://img.shields.io/badge/Foco-Sistemas%20Web%20e%20Automa%C3%A7%C3%A3o-00bfff?style=flat-square">
+</p>
+
 <hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
+
+<h3 align="center">O que estou construindo</h3>
+
+<p align="center">
+  Meus projetos são voltados para prática real: sistemas web, organização de processos, automações, interfaces administrativas e aplicações que unem aprendizado técnico com utilidade no dia a dia.
+</p>
+
+<br>
+
+<div align="center">
+
+| Projeto | Ideia principal |
+| --- | --- |
+| Sistemas Web | Projetos com frontend, backend, banco de dados e autenticação |
+| Automações | Ferramentas para organizar arquivos, reduzir tarefas repetitivas e melhorar fluxos |
+| Plataformas Interativas | Projetos com foco em experiência visual, usabilidade e apresentação profissional |
+| Estudos Técnicos | Repositórios para praticar tecnologias, conceitos e boas práticas de desenvolvimento |
+
+</div>
+
+<hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
+
+<h3 align="center">GitHub em números</h3>
+
+<br>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevOPhost&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -38,6 +110,28 @@
 </p>
 
 <hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
+
+<h3 align="center">Contribuições</h3>
+
+<p align="center">
+  Um toque visual simples para representar a movimentação por aqui.
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevOPhost/DevOPhost/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevOPhost/DevOPhost/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/DevOPhost/DevOPhost/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+<hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
+
+<h3 align="center">Contato</h3>
+
+<p align="center">
+  Se quiser conversar sobre desenvolvimento, projetos, tecnologia ou oportunidades, fique à vontade para entrar em contato.
+</p>
 
 <div align="center"> 
   <a href="https://www.instagram.com/leonardommbr/" target="_blank">
@@ -51,10 +145,10 @@
   </a> 
 </div>
 
-<hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
+<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <i>Construindo, testando, errando, melhorando e evoluindo um projeto por vez.</i>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
