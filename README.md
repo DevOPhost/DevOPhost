@@ -15,14 +15,6 @@
 
 <br>
 
-<h3 align="center">Tecnologias</h3>
-
-<p align="center">
-  Tecnologias que utilizo em estudos, projetos pessoais e desenvolvimento de sistemas.
-</p>
-
-<br>
-
 <h4 align="center">Linguagens</h4>
 
 <div align="center">
