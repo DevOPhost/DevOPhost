@@ -57,14 +57,6 @@
   <img alt="Postman" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </div>
 
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Antigravity-333333?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity">
-</p>
-
-<br>
-
 <hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
 
 <p align="center">
