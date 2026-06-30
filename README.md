@@ -15,12 +15,10 @@
 
 <br>
 
-<hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
-
-<h3 align="center">Tecnologias e Ferramentas</h3>
+<h3 align="center">Tecnologias</h3>
 
 <p align="center">
-  Tecnologias que utilizo, estudo ou já apliquei em projetos acadêmicos, pessoais e profissionais.
+  Tecnologias que utilizo em estudos, projetos pessoais e desenvolvimento de sistemas.
 </p>
 
 <br>
@@ -28,67 +26,35 @@
 <h4 align="center">Linguagens</h4>
 
 <div align="center">
-  <img alt="HTML" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="Python" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Java" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 <br>
 
-<h4 align="center">Front-end</h4>
+<h4 align="center">Ferramentas e Tecnologias</h4>
 
 <div align="center">
-  <img alt="React" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Vite" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
-  <img alt="TailwindCSS" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img alt="Bootstrap" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="NodeJS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="GitHub" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img alt="VS Code" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img alt="Postman" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </div>
 
 <br>
-
-<h4 align="center">Back-end</h4>
-
-<div align="center">
-  <img alt="NodeJS" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img alt="Express" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img alt="NPM" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-</div>
-
-<br>
-
-<h4 align="center">Banco de Dados</h4>
-
-<div align="center">
-  <img alt="MySQL" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img alt="PostgreSQL" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img alt="SQLite" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img alt="MongoDB" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-</div>
-
-<br>
-
-<h4 align="center">Ferramentas e Plataformas</h4>
-
-<div align="center">
-  <img alt="Git" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img alt="GitHub" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img alt="VS Code" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img alt="Postman" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-  <img alt="Docker" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img alt="Linux" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img alt="Windows" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
-</div>
-
-<br>
-
-<h4 align="center">Interesses Técnicos</h4>
 
 <p align="center">
-  Desenvolvimento Web • APIs • Banco de Dados • Automação • Sistemas Administrativos • Interfaces Responsivas • Organização de Processos
+  <img src="https://img.shields.io/badge/Antigravity-333333?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity">
 </p>
+
+<br>
 
 <hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
 
