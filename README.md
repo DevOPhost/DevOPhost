@@ -16,7 +16,7 @@
 
 <br>
 
-<h4 align="center">Linguagens</h4>
+<h4 align="center">Languages</h4>
 
 <div align="center">
   <img alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -34,7 +34,7 @@
 
 <br>
 
-<h4 align="center">Ferramentas e Tecnologias</h4>
+<h4 align="center">tools and technologies</h4>
 
 <div align="center">
   <img alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
