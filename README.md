@@ -6,12 +6,13 @@
 
 <hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
 
-<h3 align="center">Olá, sou o Leonardo Farias</h3>
+<h3 align="center">Hi, I'm Leonardo Farias</h3>
 
 <p align="center">
-  Analista de Sistemas formado em Ciência da Computação.<br>
-  Focado em desenvolvimento web, automação de processos e soluções tecnológicas que tornam rotinas operacionais mais simples, organizadas e eficientes.
+  Systems Analyst and Computer Science graduate.<br>
+  Focused on web development, process automation, and building practical solutions that make operational workflows simpler, more organized, and more efficient.
 </p>
+
 
 <br>
 
