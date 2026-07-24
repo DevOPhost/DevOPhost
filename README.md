@@ -63,7 +63,7 @@
   <a href="https://www.instagram.com/leonardommbr/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:hosttm123@gmail.com">
+  <a href="mailto:leonardofarias.tech@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/leonardo-farias-martins-160340215/" target="_blank">
