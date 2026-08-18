@@ -1,81 +1,236 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=header"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Leo;Systems+Analyst;Web+Developer;Automation+Enthusiast" alt="Typing SVG" />
-</p>
-
-<hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
-
-<h3 align="center">Hi, I'm Leonardo Farias</h3>
-
-<p align="center">
-  Systems Analyst and Computer Science graduate.<br>
-  Focused on web development, process automation, and building practical solutions that make operational workflows simpler, more organized, and more efficient.
-</p>
-
-
-<br>
-
-<h4 align="center">Languages</h4>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 <div align="center">
-  <img alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="SQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img alt="C" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="C++" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img alt="Bash" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img alt="Markdown" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
+
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Leonardo+Farias;Systems+Analyst;Software+Developer;Automation+%26+APIs;Cybersecurity"
+    alt="Typing SVG"
+  />
+
 </div>
 
 <br>
 
-<h4 align="center">tools and technologies</h4>
-
-<div align="center">
-  <img alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="NodeJS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img alt="Express" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img alt="PostgreSQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img alt="Docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img alt="Kubernetes" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
-  <img alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img alt="GitHub" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img alt="VS Code" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img alt="Postman" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-</div>
-
-<hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
+<h2 align="center">Leonardo Farias</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevOPhost&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevOPhost&layout=compact&theme=tokyonight&hide_border=true"/>
+  Computer Science graduate and Systems Analyst focused on software development,<br>
+  process automation, APIs and practical technology solutions.
 </p>
 
-<hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
+<p align="center">
+  <sub>
+    🏅 Academic distinction — 1st place in Computer Science and 1st overall at UNIC · 2026/1
+  </sub>
+</p>
 
-<div align="center"> 
-  <a href="https://www.instagram.com/leonardommbr/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<br>
+
+<div align="center">
+
+  <a href="https://devophost.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=00BFFF">
   </a>
+
+  <a href="https://www.linkedin.com/in/leonardo-farias-martins-160340215/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
   <a href="mailto:leonardofarias.tech@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/leonardo-farias-martins-160340215/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+
 </div>
 
-<hr style="border: 2px solid #00bfff; margin-top: 10px; margin-bottom: 10px;">
+<br>
+
+---
+
+<br>
+
+<h2 align="center">Tech Stack</h2>
+
+<br>
+
+<h3 align="center">Languages & Web</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,c,cpp&theme=dark"
+    alt="HTML, CSS, JavaScript, TypeScript, Python, Java, C and C++"
+  />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
+<br>
 
+<h3 align="center">Frameworks & Development</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=react,nodejs,express,spring,vite&theme=dark"
+    alt="React, Node.js, Express, Spring and Vite"
+  />
+</p>
+
+<br>
+
+<h3 align="center">Databases & Backend Services</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark"
+    alt="MySQL, PostgreSQL and Supabase"
+  />
+</p>
+
+<br>
+
+<h3 align="center">DevOps & Tools</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,postman,bash,md&theme=dark"
+    alt="Git, GitHub, Docker, Kubernetes, VS Code, Postman, Bash and Markdown"
+  />
+</p>
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">GitHub Overview</h2>
+
+<br>
+
+<div align="center">
+
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=DevOPhost&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&title_color=00BFFF&icon_color=00BFFF&text_color=C9D1D9"
+    alt="Leonardo Farias GitHub Stats"
+  />
+
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=DevOPhost&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=00BFFF&text_color=C9D1D9"
+    alt="Leonardo Farias Top Languages"
+  />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">What I Work With</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="250">
+
+### Software Development
+
+Web applications, backend services and APIs using modern technologies.
+
+</td>
+
+<td align="center" width="250">
+
+### Automation
+
+Automation of repetitive processes and operational workflows using Python and APIs.
+
+</td>
+
+<td align="center" width="250">
+
+### Data & Systems
+
+Databases, system integration, information organization and data-driven solutions.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="250">
+
+### Cybersecurity
+
+Information security, cybersecurity concepts and secure application practices.
+
+</td>
+
+<td align="center" width="250">
+
+### APIs
+
+REST APIs, integrations, backend architecture and communication between systems.
+
+</td>
+
+<td align="center" width="250">
+
+### DevOps
+
+Git, Docker, deployment, infrastructure fundamentals and development workflows.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<h2 align="center">Connect with me</h2>
+
+<br>
+
+<div align="center">
+
+  <a href="https://devophost.github.io/portfolio/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=00BFFF"
+      alt="Portfolio"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/leonardo-farias-martins-160340215/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:leonardofarias.tech@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/leonardommbr/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
