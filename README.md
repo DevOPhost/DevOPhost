@@ -51,7 +51,11 @@
 
 </div>
 
-<br><br>
+<br>
+
+---
+
+<br>
 
 <h2 align="center">Tech Stack</h2>
 
@@ -99,7 +103,11 @@
   />
 </p>
 
-<br><br>
+<br>
+
+---
+
+<br>
 
 <h2 align="center">GitHub Overview</h2>
 
@@ -121,7 +129,11 @@
 
 </div>
 
-<br><br>
+<br>
+
+---
+
+<br>
 
 <h2 align="center">Connect with me</h2>
 
