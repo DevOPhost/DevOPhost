@@ -28,16 +28,25 @@
 
 <div align="center">
 
-  <a href="https://devophost.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=00BFFF">
+  <a href="https://leonardofarias.pages.dev/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
 
-  <a href="https://www.linkedin.com/in/leonardo-farias-martins-160340215/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/leonardo-farias-martins-160340215/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="mailto:leonardofarias.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
 
 </div>
@@ -126,84 +135,15 @@
 
 <br>
 
-<h2 align="center">What I Work With</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="250">
-
-### Software Development
-
-Web applications, backend services and APIs using modern technologies.
-
-</td>
-
-<td align="center" width="250">
-
-### Automation
-
-Automation of repetitive processes and operational workflows using Python and APIs.
-
-</td>
-
-<td align="center" width="250">
-
-### Data & Systems
-
-Databases, system integration, information organization and data-driven solutions.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="250">
-
-### Cybersecurity
-
-Information security, cybersecurity concepts and secure application practices.
-
-</td>
-
-<td align="center" width="250">
-
-### APIs
-
-REST APIs, integrations, backend architecture and communication between systems.
-
-</td>
-
-<td align="center" width="250">
-
-### DevOps
-
-Git, Docker, deployment, infrastructure fundamentals and development workflows.
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
----
-
-<br>
-
 <h2 align="center">Connect with me</h2>
 
 <br>
 
 <div align="center">
 
-  <a href="https://devophost.github.io/portfolio/" target="_blank">
+  <a href="https://leonardofarias.pages.dev/" target="_blank">
     <img
-      src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=00BFFF"
+      src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Portfolio"
     />
   </a>
